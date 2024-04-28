@@ -1,0 +1,61 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    /* background-image: url('data:image/jpeg;base64,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'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    color: #fff; /* Text color on top of the background image */
+    background: linear-gradient(to right, rgb(203, 203, 248),rgb(237, 219, 219),rgb(160, 160, 226));
+}
+
+
+header {
+    background-color: burlywood;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #0056b3;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif; /* Set the font family to Times New Roman */
+    font-size: 18px; /* You can adjust the font size as needed */
+    color: black;    
+}
+.box
+{
+    float : left;
+    text-align : center;
+    width : 40%;
+}
